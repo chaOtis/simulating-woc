@@ -1,5 +1,5 @@
 # simulating-woc
-A Simulation-Based Approach to Understanding the Wisdom of Crowds Phenomenon in Aggregating Expert Judgment
+## Based on *A Simulation-Based Approach to Understanding the Wisdom of Crowds Phenomenon in Aggregating Expert Judgment* (BISE, 2020)
 
 The folder **Analysis** contains all scenarios, input data, and experiment setups for the scientific publication in Business & Information Systems Engineering. The results of the experiments are gathered in **Plots** and **Data**.
 
