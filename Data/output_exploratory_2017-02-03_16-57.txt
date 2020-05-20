@@ -1,0 +1,16 @@
+
+########## Exploratory: 4c ##########
+########## Exploratory: 4c - SINGLE DELETE ##########
+########## Exploratory: 4c - INDIVIDUAL UNCERTAINTY ##########
+Optimal Solo Sigma
+E1:
+0.885588512079
+E2:
+0.885588512079
+Optimal Group Sigma
+UWM:
+(1.2855885120792936, 0.68558851207929372)
+CWM:
+(0.7855885120792937, 0.48558851207929377)
+
+
